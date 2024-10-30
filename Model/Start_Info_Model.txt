@@ -1,2 +1,3 @@
 Here the prototype of the model is shown, supported by images from design software Fusion 360 and real images taken as the project progresses.
 The wheels are printed in 3D with ePETG fillament and the rest of the structure done with a more solid material.
+Along with them the real elements that make up the launcher are shared. Main elements so far: Motor (2x), Battery (1x), Half-Breadboard (1x) and Arduino 33 BLE (1x).
