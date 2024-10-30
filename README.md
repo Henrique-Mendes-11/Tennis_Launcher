@@ -5,7 +5,6 @@ Git where all the components from the project "Building a tennis ball launcher f
 Hello,
 
 Here you will be able to find updated information to my ongoing project, where I am building a tennis ball launcher from scratch. 
-
 First, coherent results from simulations can be found and respective files from the simulation will be posted and uptaded. 
 The prototype of the model in 3D along with its elements will be shared. The model is first designed for the table tennis and later on redesigned for the tennis ball, after the successfull implementation of the first. 
 Real images of the process will support it, as a real evidence of the project. 
