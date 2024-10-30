@@ -1,0 +1,6 @@
+********* Components *********
+
+Motor: https://www.amazon.es/-/pt/dp/B07RQKT1Q9 
+Battery: https://www.amazon.es/-/pt/dp/B086BD4X9B/ref=twister_B0BF23GLJH?_encoding=UTF8&th=1
+Wheel fillament: https://evolt.pt/produto/epetg-easyfil-1kg-traffic-black-formfutura/ 
+Arduino: https://store.arduino.cc/en-pt/products/arduino-nano-33-ble 
