@@ -1,0 +1,2 @@
+Here various files with the drawings of the dimensions of different parts of the model, such as wheels, motor support, launch tube, etc... are found. 
+Alongside with it, the dimensions of the main electronic components are shared (with datasheets).
