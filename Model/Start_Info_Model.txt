@@ -1,0 +1,2 @@
+Here the prototype of the model is shown, supported by images from design software Fusion 360 and real images taken as the project progresses.
+The wheels are printed in 3D with ePETG fillament and the rest of the structure done with a more solid material.
