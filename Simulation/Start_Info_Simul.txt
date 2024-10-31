@@ -1,3 +1,6 @@
 Here the various results from the simulations are shown. 
-Key code, is Python, is shared. 
+Key code in Python. 
 And, possible MATLAB results as secondary study view.
+
+
+[All done until 31/10/24 for the *thesis*]
