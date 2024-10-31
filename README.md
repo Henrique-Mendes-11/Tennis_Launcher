@@ -1,4 +1,4 @@
-# Tennis_Launhcer
+# Tennis_Launcher
 Git where all the information from the project "Building a tennis ball launcher from scratch" is shared
 
 
